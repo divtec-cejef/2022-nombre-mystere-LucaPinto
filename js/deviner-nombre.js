@@ -12,7 +12,6 @@
     let nbMystere = 0;
     let nbEssais = 0;
     let reponse = 0;
-    let message = " ";
 
     /**
      * Retourne un nombre entier aléatoire compris entre min et max
@@ -38,5 +37,4 @@
             alert('Cest plus !');
         }
     }
-
 }()); // main IIFE
